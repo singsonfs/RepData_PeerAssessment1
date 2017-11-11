@@ -27,7 +27,7 @@ What is mean total number of steps taken per day?
 hist(totalSteps$steps)
 ```
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+(figure/unnamed-chunk-3.png) 
 
 
 * Calculate and report the **mean** and **median** total number of steps taken 
